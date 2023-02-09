@@ -1,4 +1,4 @@
-#Job Listing Consolidation and Categorization
+# Job Listing Consolidation and Categorization
 
 This project aims to create a website/web application that serves as a job listing aggregator, in that it displays job listings based on search parameters and filters from multiple pre-existing job recruitment platforms like LinkedIn Jobs, Indeed, Naukri.com, etc. 
 
