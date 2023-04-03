@@ -1,4 +1,4 @@
-# Job Listing Consolidation and Categorization
+# Job Listing Consolidation and Recommendation System
 
 This project aims to create a job aggregation and recommendation system that is both broader and smarter than conventional and simple approaches to creating a recommendation system. We aim to achieve this using a combination of web mining concepts like web scraping and data analytics concepts like recommendation systems. In the end, a user is recommended job listings from multiple sources based on their interests and the profile that they build. 
 
